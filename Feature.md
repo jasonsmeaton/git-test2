@@ -1,3 +1,3 @@
 # Feature
 
-Conflict 1
+Feature 2
